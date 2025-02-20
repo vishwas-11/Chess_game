@@ -87,11 +87,14 @@ chess-game/
 ---
 
 ## Snapshots
-  -**Initial Board Setup**
+  - **Initial Board Setup** :
   
 ![chess_clone_2](https://github.com/user-attachments/assets/5c0a9822-cd82-4bfa-80b8-655e81c08127)
 
-  -**When both players join**
+
+
+  - **When both players join** :
+    
 ![chess_clone ](https://github.com/user-attachments/assets/349ee6e9-16d0-4c7a-841a-d665e3fa6352)
 
 
